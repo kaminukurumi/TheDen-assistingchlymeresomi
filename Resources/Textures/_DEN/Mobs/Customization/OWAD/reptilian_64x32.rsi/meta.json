@@ -1,0 +1,47 @@
+﻿{
+    "version": 1,
+    "license": "CC-BY-NC-SA-3.0",
+    "copyright": "All markings made by chlymerine(SS14)/kaminukurumi(github)",
+    "size": {
+        "x": 64,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "soapytail-1",
+            "directions": 4
+        },
+        {
+            "name": "soapytail-2",
+            "directions": 4
+        },
+        {
+            "name": "soapytail-3",
+            "directions": 4
+        },
+        {
+            "name": "soapytail-1-dark",
+            "directions": 4
+        },
+        {
+            "name": "soapytail-2-dark",
+            "directions": 4
+        },
+        {
+            "name": "soapytail-3-dark",
+            "directions": 4
+        },
+        {
+            "name": "thunddoggo-1",
+            "directions": 4
+        },
+        {
+            "name": "thunddoggo-2",
+            "directions": 4
+        },
+        {
+            "name": "thunddoggo-3",
+            "directions": 4
+        }
+    ]
+}

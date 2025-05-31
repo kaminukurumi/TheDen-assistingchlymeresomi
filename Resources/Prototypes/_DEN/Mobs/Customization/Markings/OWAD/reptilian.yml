@@ -1,0 +1,123 @@
+﻿- type: marking
+  id: ReptilianOWADSoapdragonEars
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-2
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-3
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-4
+
+- type: marking
+  id: ReptilianOWADSoapdragonEarsDark
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-1-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-2-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-3-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapderg-4-dark
+
+- type: marking
+  id: ReptilianOWADSoapdragonChest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapdergchest-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapdergchest-2
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapdergchest-3
+
+- type: marking
+  id: ReptilianOWADSoapdragonChestDark
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapdergchest-1-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapdergchest-2-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: soapdergchest-3-dark
+
+- type: marking
+  id: ReptilianOWADSoapdragonTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: soapytail-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: soapytail-2
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: soapytail-3
+
+- type: marking
+  id: ReptilianOWADSoapdragonTailDark
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: soapytail-1-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: soapytail-2-dark
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: soapytail-3-dark
+
+- type: marking
+  id: ReptilianOWADDoradohorn
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_32x64.rsi
+    state: doradohorn
+
+- type: marking
+  id: ReptilianOWADThunddoggoHorn
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Reptilian, Vulpkanin]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_32x64.rsi
+    state: thunddoggohorn
+
+- type: marking
+  id: ReptilianOWADThunddoggoTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Reptilian, Vulpkanin]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: thunddoggo-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: thunddoggo-2
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian_64x32.rsi
+    state: thunddoggo-3
+
+- type: marking
+  id: ReptilianOWADWannabeEars
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Reptilian, Vulpkanin]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: knifeears-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: knifeears-2
