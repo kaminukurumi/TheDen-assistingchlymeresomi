@@ -1,0 +1,29 @@
+﻿- type: marking
+  id: ReptilianOWADLeftHoofLeg
+  bodyPart: LLeg
+  markingCategory: LeftLeg
+  speciesRestriction: [Human, Felinid, Oni]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/humanoid.rsi
+    state: hoof-l-leg
+
+- type: marking
+  id: ReptilianOWADRightHoofLeg
+  bodyPart: RLeg
+  markingCategory: RightLeg
+  speciesRestriction: [Human, Felinid, Oni]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/humanoid.rsi
+    state: hoof-r-leg
+
+
+- type: marking
+  id: HumanoidOWADHooves
+  bodyPart: RFoot # Can't be LFoot to avoid visual glitches
+  markingCategory: RightFoot
+  speciesRestriction: [Human, Felinid, Oni]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/humanoid.rsi
+    state: hooves-1
+  - sprite: _DEN/Mobs/Customization/OWAD/humanoid.rsi
+    state: hooves-2
