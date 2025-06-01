@@ -111,6 +111,9 @@ namespace Content.Server.RoundEnd
                 _cooldownTokenSource = null;
             }
 
+            ResetHardEndTimer();
+
+            RespectRoundHardEnd = true;
             LastCountdownStart = null;
             ExpectedCountdownEnd = null;
             SetAutoCallTime();
@@ -453,8 +456,7 @@ namespace Content.Server.RoundEnd
             {
                 if (!_shuttle.EmergencyShuttleArrived && ExpectedCountdownEnd is null)
                 {
-                    var ev = new ShuttleAutoCallAttemptedEvent();
-                    RaiseLocalEvent(ref ev);
+                    CreateAutoCallVote();
                 }
 
                 // Always reset auto-call in case of a recall.
@@ -470,9 +472,6 @@ namespace Content.Server.RoundEnd
 
     [ByRefEvent]
     public record struct CanCallOrRecallEvent(EntityUid Station, bool Cancelled = false);
-
-    [ByRefEvent]
-    public record struct ShuttleAutoCallAttemptedEvent;
 
     public enum RoundEndBehavior : byte
     {
