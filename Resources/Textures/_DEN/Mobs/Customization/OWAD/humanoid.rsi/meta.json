@@ -1,0 +1,19 @@
+﻿{
+    "version": 1,
+    "license": "CC-BY-NC-SA-3.0",
+    "copyright": "All markings made by chlymerine(SS14)/kaminukurumi(github)",
+    "size": {
+        "x": 32,
+        "y": 64
+    },
+    "states": [
+        {
+            "name": "doradohorn",
+            "directions": 4
+        },
+        {
+            "name": "thunddoggohorn",
+            "directions": 4
+        }
+    ]
+}
