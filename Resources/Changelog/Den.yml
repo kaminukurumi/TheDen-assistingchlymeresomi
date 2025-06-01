@@ -4783,3 +4783,72 @@ Entries:
   id: 442
   time: '2025-05-31T19:28:21.0000000+00:00'
   url: https://github.com/TheDenSS14/TheDen/pull/625
+- author: sleepyyapril
+  changes:
+    - type: Add
+      message: >-
+        Round extension votes are now handled through an OOC vote, before the
+        initial shuttle call is made.
+    - type: Add
+      message: >-
+        Rounds will no longer last 6 hours and are now capped at 5, unless an
+        admin intervenes beforehand.
+  id: 443
+  time: '2025-06-01T02:11:26.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/626
+- author: mart33no
+  changes:
+    - type: Add
+      message: Handheld Atmospherics Monitor
+    - type: Add
+      message: Handheld Power Monitor
+    - type: Tweak
+      message: >-
+        Added both into research upgrades (Power Monitor into Advanced Tools,
+        Atmospherics Monitor into Advanced Atmospherics)
+    - type: Tweak
+      message: Added both into the Advanced Tools module for borgs
+  id: 444
+  time: '2025-06-01T02:13:06.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/623
+- author: sleepyyapril
+  changes:
+    - type: Fix
+      message: Fixed NanoChat Lookup.
+  id: 445
+  time: '2025-06-01T03:08:41.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/629
+- author: Rosycup
+  changes:
+    - type: Add
+      message: >-
+        Added a katana sheath fit for a single katana, available in the salvage
+        specialist loadout for veterans in the workplace.
+    - type: Tweak
+      message: >-
+        Tweaked some stats for the crushers and kinetic weapons with overall
+        improvements, view PR for details.
+  id: 446
+  time: '2025-06-01T03:32:11.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/613
+- author: BlitzTheSquishy
+  changes:
+    - type: Tweak
+      message: Rubber Hammer no longer has a chance to do 1000 damage
+  id: 447
+  time: '2025-06-01T06:28:56.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/631
+- author: portfiend
+  changes:
+    - type: Add
+      message: >-
+        Various toy-themed markings, such as plush seams, a zipper, wind-up
+        keys, and a few overlay markings. Compatible with most species. You can
+        find them in head, chest, feet, and overlay markings.
+    - type: Fix
+      message: >-
+        Vox, Unathi, and Feroxi will preview in the character creator with
+        correct loadout sprites.
+  id: 448
+  time: '2025-06-01T08:09:48.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/633
