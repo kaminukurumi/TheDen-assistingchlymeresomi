@@ -8,11 +8,51 @@
     },
     "states": [
         {
+            "name": "fattail",
+            "directions": 4
+        },
+        {
+            "name": "fattail-overlay",
+            "directions": 4
+        },
+        {
+            "name": "fattail-thunderspines",
+            "directions": 4
+        },
+        {
+            "name": "marknose",
+            "directions": 4
+        },
+        {
+            "name": "marknosesnout-1",
+            "directions": 4
+        },
+        {
+            "name": "marknosesnout-2",
+            "directions": 4
+        },
+        {
             "name": "knifeears-1",
             "directions": 4
         },
         {
             "name": "knifeears-2",
+            "directions": 4
+        },
+        {
+            "name": "leviathanhood-1",
+            "directions": 4
+        },
+        {
+            "name": "leviathanhood-2",
+            "directions": 4
+        },
+        {
+            "name": "leviathanhood-3",
+            "directions": 4
+        },
+        {
+            "name": "lightsquirrelfacehorns",
             "directions": 4
         },
         {

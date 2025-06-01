@@ -121,3 +121,69 @@
     state: knifeears-1
   - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
     state: knifeears-2
+
+- type: marking
+  id: ReptilianOWADLightSquirrelFacehorns
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: lightsquirrelfacehorns
+
+- type: marking
+  id: ReptilianOWADLeviathanHood
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: leviathanhood-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: leviathanhood-2
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: leviathanhood-3
+
+- type: marking
+  id: ReptilianOWADFatTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: fattail
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: fattail-overlay
+
+- type: marking
+  id: ReptilianOWADLightSquirrelTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: fattail
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: fattail-overlay
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: fattail-thunderspines
+
+- type: marking
+  id: ReptilianOWADWyvernMuzzle
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: marknose
+
+- type: marking
+  id: ReptilianOWADWyvernMuzzleSnout
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [Reptilian]
+  sprites:
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: marknosesnout-1
+  - sprite: _DEN/Mobs/Customization/OWAD/reptilian.rsi
+    state: marknosesnout-2
